@@ -1,5 +1,12 @@
 # Prueba Técnica de JavaScript
 
+A continuación, se tiene la prueba técnica, la cual debe de hacer un fork al repositorio, y tendra 2 dias para completarlo.
+
+Lea y complete lo solicitado, puede usar cualquier recurso que le pueda facilitar completar la prueba tecnica.
+
+Para el caso de la parte teorica, es mejor que investigue en dado caso no sepa del tema y de lo que entienda pueda dar respuesta
+a las preguntas.
+
 ## Parte Teórica
 
 ### APIs
@@ -62,3 +69,6 @@
 ### Integración Backend-Frontend
 
 3. Conecta la aplicación frontend con la API backend que creaste en el ejercicio 1. Implementa las operaciones CRUD para los usuarios desde la interfaz de usuario.
+
+
+<small>Created by: _Carlos Soto_.</small>
